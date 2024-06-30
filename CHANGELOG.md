@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.1](https://github.com/crate-crypto/peerdas-kzg/compare/v0.3.0...v0.3.1) (2024-06-30)
+
+
+### Bug Fixes
+
+* Add build.gradle to release-please config ([da9479b](https://github.com/crate-crypto/peerdas-kzg/commit/da9479bd483980de56add7304b843d88273bc3e6))
+* Add node package.json version to release-please ([ac33e76](https://github.com/crate-crypto/peerdas-kzg/commit/ac33e76657d26c48e359a6516b4b3f6767099f92))
+* BYTES_PER_CELL constant ([3e8455d](https://github.com/crate-crypto/peerdas-kzg/commit/3e8455d7046309e474f85a69d3b78e41dec89c7b))
+* Do not use the deduplicated commitments ([fb6df2e](https://github.com/crate-crypto/peerdas-kzg/commit/fb6df2eefc29a3f1041aaaa3205c01de1218c02f))
+* Node CI workflow runs on master ([5702205](https://github.com/crate-crypto/peerdas-kzg/commit/5702205bc0a1a709483dd6abacc356ccc7dcdf94))
+* Pack readme in csharp project ([5ce0470](https://github.com/crate-crypto/peerdas-kzg/commit/5ce0470b002dbec37d8f3205f56f4a7aed40da55))
+
 ## [0.3.0](https://github.com/crate-crypto/peerdas-kzg/compare/v0.2.6...v0.3.0) (2024-05-21)
 
 
