@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.10.0](https://github.com/crate-crypto/rust-eth-kzg/compare/v0.9.1...v0.10.0) (2025-10-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* change `node` bindings to be singlethreaded ([#433](https://github.com/crate-crypto/rust-eth-kzg/issues/433))
+
+### Features
+
+* Change `node` bindings to be singlethreaded ([#433](https://github.com/crate-crypto/rust-eth-kzg/issues/433)) ([284ec58](https://github.com/crate-crypto/rust-eth-kzg/commit/284ec58355e04fb5ecbbfd5e9587481927fd5185))
+
 ## [0.9.1](https://github.com/crate-crypto/rust-eth-kzg/compare/v0.9.0...v0.9.1) (2025-09-24)
 
 
